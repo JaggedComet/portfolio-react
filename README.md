@@ -6,11 +6,6 @@
 This application is supposed to allow you to edit text in a browser, then download that application through PWA practices. It uses a service worker to cache items and controls the processes on the page.
 
 
-## Demo
-
-![Demo](./src/assets/images/demoGif.gif)
-
-
 ## Technology
 
 Here is the technology used along with links to them where applicable:
