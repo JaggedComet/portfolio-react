@@ -32,7 +32,7 @@ export default function PortfolioContainer() {
       <NavBar currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
       <footer className="text-center">
-        <a style={styles.fontColor} href="mailto: DLuu.developer@gmail.com">
+        <a style={styles.fontColor} href="mailto: MarcoFlores1029@gmail.com">
           MarcoFlores1029@gmail.com
         </a>{" "}
         |{" "}
