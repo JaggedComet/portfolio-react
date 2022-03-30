@@ -4,7 +4,6 @@ import jobBoard from "./job-board.jpg";
 import covidTest from "./covid-test.jpg";
 import textEditor from "./coding.jpeg";
 import happyHour from "./happy-hour.jpg";
-import bookSearch from "./book-search.jpg";
 import { Button } from "react-bootstrap";
 
 const styles = {
